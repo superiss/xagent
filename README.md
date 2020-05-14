@@ -28,6 +28,3 @@ func main() {
 	// output: &{firefox computer linux}
 }
 ```
-
-## Important Note:
-To match results correctly strings must be converted to lower cases. Use "strings.ToLower"
